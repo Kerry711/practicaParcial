@@ -1,0 +1,7 @@
+.navbar-brand {
+    font-size: 22px;
+}
+
+.nav-link:hover {
+    color: #0d6efd;
+}
