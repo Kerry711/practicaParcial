@@ -1,0 +1,17 @@
+section {
+    scroll-margin-top: 90px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.card-body {
+    line-height: 1.7;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.3;
+}
